@@ -2,7 +2,7 @@
 Este projeto foi desenvolvido para o evento da **Global Solution** proposto pela FIAP. Utilizando o arduíno UNO foi montado um **sistema inteligente de alertas para enchentes e deslizamentos de terra**, integrando *sensores de solo, ultrassônicos*, um *display LCD I2C 16x2* e um *buzzer* para avisar quando o nível for crítico. 
 
 <!-- Colocar Link do vídeo do YT quando for lançado -->
-### Assista nosso vídeo explicativo 👉 [AlertaBR - Circuito de Enchentes e Umidade]()
+### Assista nosso vídeo explicativo 👉 [AlertaBR - Circuito de Enchentes e Umidade](https://youtu.be/_UoHvXk5F6Q)
 
 ### 👉 [Acesse o projeto no Tinkercad](https://www.tinkercad.com/things/1KK5NCCKVfm-circuito-global-solution/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
